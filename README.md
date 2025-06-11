@@ -74,5 +74,5 @@ A smart embedded system using IoT and light intensity sensors (BH1750) to monito
 
 ## 📖 License
 
-This project is licensed under the [MIT License](LICENSE) © 2025 Mithunsankar S and Team.
+This project is licensed under the [MIT License](LICENSE) © 2023 Mithunsankar S and Team.
 
